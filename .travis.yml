@@ -2,7 +2,7 @@ dist: bionic
 
 env:
   global:
-    - IMAGE_NAME=pkskubeflow//visualization-server:0.2.5
+    - IMAGE_NAME=pkskubeflow/visualization-server:0.2.5
     - CODE_TAG=master
 
 arch:
